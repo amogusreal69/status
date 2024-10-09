@@ -4,7 +4,7 @@
     "url": "https://wraithnodes.tickets.amogusreal69.me",
     "icon": "https://icons.duckduckgo.com/ip3/wraithnodes.tickets.amogusreal69.me.ico",
     "slug": "wraith-nodes-tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1205,
     "timeMonth": 1205,
     "timeYear": 1205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   }
 ]
